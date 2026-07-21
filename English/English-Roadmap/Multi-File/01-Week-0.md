@@ -52,31 +52,31 @@ Hôm nay bạn sẽ làm bài kiểm tra chẩn đoán đầu vào để đánh 
 Hãy chọn đáp án đúng nhất.
 
 **1.** I ___ a student.
-   - [x] A. am
+   - [ ] A. am
    - [ ] B. is
    - [ ] C. are
    - [ ] D. be
 
 **2.** She ___ to school every day.
-   - [x] A. go
+   - [ ] A. go
    - [ ] B. goes
    - [ ] C. going
    - [ ] D. went
 
 **3.** ___ you like ice cream?
    - [ ] A. Does
-   - [x] B. Do
+   - [ ] B. Do
    - [ ] C. Are
    - [ ] D. Is
 
 **4.** There ___ two cats on the table.
    - [ ] A. is
-   - [x] B. are
+   - [ ] B. are
    - [ ] C. have
    - [ ] D. has
 
 **5.** He ___ playing football now.
-   - [x] A. is
+   - [ ] A. is
    - [ ] B. am
    - [ ] C. are
    - [ ] D. be
@@ -84,12 +84,12 @@ Hãy chọn đáp án đúng nhất.
 **6.** I ___ my homework yesterday.
    - [ ] A. do
    - [ ] B. did
-   - [x] C. does
+   - [ ] C. does
    - [ ] D. doing
 
 **7.** This is ___ book. It's not mine.
    - [ ] A. you
-   - [x] B. your
+   - [ ] B. your
    - [ ] C. yours
    - [ ] D. yourself
 
@@ -97,16 +97,16 @@ Hãy chọn đáp án đúng nhất.
    - [ ] A. tall
    - [ ] B. taller
    - [ ] C. tallest
-   - [x] D. more tall
+   - [ ] D. more tall
 
 **9.** We are going ___ the park.
    - [ ] A. at
    - [ ] B. in
-   - [x] C. to
+   - [ ] C. to
    - [ ] D. on
 
 **10.** I have ___ apple.
-   - [x] A. a
+   - [ ] A. a
    - [ ] B. an
    - [ ] C. some
    - [ ] D. any
