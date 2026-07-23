@@ -3,7 +3,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[08-Week-7.md|← Tuần 7]]**
+> 🔗 **[[08-Week-7|← Tuần 7]]**
 
 # 📌 Tuần 8: Mock Mini & Tổng Kết (Mini-mock & Review)
 
@@ -1115,4 +1115,4 @@ Hãy ăn mừng thành quả của mình — bạn xứng đáng với điều �
 
 ---
 
-🔗 **[[00-Dashboard.md|Quay lại Dashboard]]** | **🎉 Chúc mừng bạn đã hoàn thành!**
+🔗 **[[00-Dashboard|Quay lại Dashboard]]** | **🎉 Chúc mừng bạn đã hoàn thành!**

@@ -23,7 +23,7 @@ Lộ trình này được thiết kế cho **người mất gốc tiếng Anh** 
 
 ### Cách đọc lộ trình này
 
-1. **Bắt đầu từ [[01-Week-0.md|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
+1. **Bắt đầu từ [[01-Week-0|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
 2. **Mỗi ngày học 1 bài** — mỗi bài mất **60-90 phút**
 3. **Cuối mỗi tuần có Checkpoint** — ôn tập và tự đánh giá
 4. **Dùng [[wikilink]]** để điều hướng giữa các tuần
@@ -106,15 +106,15 @@ Mỗi lỗi gồm:
 
 | Tuần | Tên | Trọng tâm | Số ngày | Link |
 |---|---|---|---|---|
-| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[01-Week-0.md]] |
-| **1** | 🦴 Xây Dựng Xương Sống Câu (Sentence Backbone) | S+V+O, To be, Action verbs, Present Simple cơ bản | 7 | [[02-Week-1.md]] |
-| **2** | 📅 Kể Về Bản Thân & Đời Sống (Personal English) | Present Simple, Adverbs of frequency, Present Continuous, Daily routine | 7 | [[03-Week-2.md]] |
-| **3** | ⏰ Kiểm Soát Thời Gian (Time Control) | Past Simple (was/were, V-ed), Irregular verbs, Future with will/going to | 7 | [[04-Week-3.md]] |
-| **4** | ✍️ Xây Dựng Đoạn Văn (Paragraph Builder) | Connectors (because, so, but, although), Cấu trúc T-S-E-F | 7 | [[05-Week-4.md]] |
-| **5** | 📊 Làm Quen Với IELTS (IELTS Bridge) | Comparatives, Superlatives, Mô tả xu hướng, Task 1 Lite | 7 | [[06-Week-5.md]] |
-| **6** | 👂 Tự Tin Đọc - Nghe (Reading & Listening) | Relative clauses (who/which/that), Skim/Scan, True/False/Not Given, Phân biệt số | 7 | [[07-Week-6.md]] |
-| **7** | 🎯 Tạo Sản Phẩm IELTS (Supported IELTS Output) | Modal verbs (can/should/must), Problems & Solutions, Task 2 mini | 7 | [[08-Week-7.md]] |
-| **8** | 🎉 Mock Mini & Tổng Kết (Mini-mock & Review) | Ôn tập toàn bộ 8 tuần, Mock test, Letter to self | 7 | [[09-Week-8.md]] |
+| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[01-Week-0]] |
+| **1** | 🦴 Xây Dựng Xương Sống Câu (Sentence Backbone) | S+V+O, To be, Action verbs, Present Simple cơ bản | 7 | [[02-Week-1]] |
+| **2** | 📅 Kể Về Bản Thân & Đời Sống (Personal English) | Present Simple, Adverbs of frequency, Present Continuous, Daily routine | 7 | [[03-Week-2]] |
+| **3** | ⏰ Kiểm Soát Thời Gian (Time Control) | Past Simple (was/were, V-ed), Irregular verbs, Future with will/going to | 7 | [[04-Week-3]] |
+| **4** | ✍️ Xây Dựng Đoạn Văn (Paragraph Builder) | Connectors (because, so, but, although), Cấu trúc T-S-E-F | 7 | [[05-Week-4]] |
+| **5** | 📊 Làm Quen Với IELTS (IELTS Bridge) | Comparatives, Superlatives, Mô tả xu hướng, Task 1 Lite | 7 | [[06-Week-5]] |
+| **6** | 👂 Tự Tin Đọc - Nghe (Reading & Listening) | Relative clauses (who/which/that), Skim/Scan, True/False/Not Given, Phân biệt số | 7 | [[07-Week-6]] |
+| **7** | 🎯 Tạo Sản Phẩm IELTS (Supported IELTS Output) | Modal verbs (can/should/must), Problems & Solutions, Task 2 mini | 7 | [[08-Week-7]] |
+| **8** | 🎉 Mock Mini & Tổng Kết (Mini-mock & Review) | Ôn tập toàn bộ 8 tuần, Mock test, Letter to self | 7 | [[09-Week-8]] |
 
 ---
 
@@ -147,7 +147,7 @@ Mỗi lỗi gồm:
 
 > 🗣️ *"The secret of getting ahead is getting started." — Mark Twain*
 
-🔗 **Bắt đầu ngay:** [[01-Week-0.md|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
+🔗 **Bắt đầu ngay:** [[01-Week-0|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
 
 
 ---
@@ -179,7 +179,7 @@ updated: 2026-07-20
 | 📚 Từ vựng | 10-15 phút | 08:05 - 08:15 |
 | ✅ Tự kiểm tra | 5 phút | 08:15 - 08:20 |
 
-> 💡 *Hôm nay không có bài cũ để ôn. Hãy dành 10 phút để đọc trước tổng quan lộ trình ở [[00-Dashboard.md|Dashboard]].*
+> 💡 *Hôm nay không có bài cũ để ôn. Hãy dành 10 phút để đọc trước tổng quan lộ trình ở [[00-Dashboard|Dashboard]].*
 
 📖 **Nội dung bài học**
 Hôm nay bạn sẽ làm bài kiểm tra chẩn đoán đầu vào để đánh giá trình độ hiện tại. Bài test gồm 10 câu trắc nghiệm kiểm tra các kiến thức nền tảng: đại từ, động từ "to be", thì hiện tại đơn, thì quá khứ đơn, tính từ sở hữu, so sánh hơn, giới từ và mạo từ. Kết quả sẽ giúp bạn biết mình đang ở đâu và cần tập trung vào phần nào trong 8 tuần tới.
@@ -354,7 +354,7 @@ Sau khi làm bài test, hãy viết 2-3 câu trả lời các câu hỏi sau b�
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
+🔗 **[[01-Week-0#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
 
 ---
 
@@ -491,7 +491,7 @@ Ghép từ ở cột A với nghĩa ở cột B:
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
+🔗 **[[01-Week-0#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
 
 ---
 
@@ -673,7 +673,7 @@ F. "Hi John. I'm Minh."
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
+🔗 **[[01-Week-0#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
 
 ---
 
@@ -838,7 +838,7 @@ Viết các số 1-7 ra giấy theo thứ tự ngẫu nhiên. Đọc to các câ
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
+🔗 **[[01-Week-0#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
 
 ---
 
@@ -1023,7 +1023,7 @@ Tìm và sửa lỗi trong các câu sau, sau đó ghi vào Error Ledger:
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
+🔗 **[[01-Week-0#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
 
 ---
 
@@ -1170,7 +1170,7 @@ Viết một đoạn văn 3-5 câu giới thiệu bản thân (bắt chước đ
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
+🔗 **[[01-Week-0#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
 
 ---
 
@@ -1412,7 +1412,7 @@ Sau tuần 0, bạn đã:
 
 ---
 
-🔗 **[[02-Week-1.md|Sang Tuần 1: Chào Hỏi & Giới Thiệu →]]**
+🔗 **[[02-Week-1|Sang Tuần 1: Chào Hỏi & Giới Thiệu →]]**
 
 
 ---
@@ -2668,7 +2668,7 @@ Hãy đứng trước gương và tự giới thiệu bản thân bằng tiếng
 >
 > 📱 **Nâng cấp:** Ghi âm lại và nghe lại — bạn sẽ thấy mình tiến bộ qua từng lần!
 
-➡️ Tuần sau: [[03-Week-2.md|Tuần 2: Kể Về Bản Thân]]
+➡️ Tuần sau: [[03-Week-2|Tuần 2: Kể Về Bản Thân]]
 
 
 ---
@@ -2680,7 +2680,7 @@ updated: 2026-07-20
 
 # 📌 Tuần 2: Kể Về Bản Thân & Đời Sống (Personal English & Daily Life)
 
-> 🔗 **[[02-Week-1.md|← Tuần 1]]**
+> 🔗 **[[02-Week-1|← Tuần 1]]**
 
 ---
 
@@ -3965,7 +3965,7 @@ Viết 1 đoạn văn 50-70 từ miêu tả "Một ngày hoàn hảo" của bạ
 
 ---
 
-🔗 **[[04-Week-3.md|Sang Tuần 3 →]]**
+🔗 **[[04-Week-3|Sang Tuần 3 →]]**
 
 
 ---
@@ -3975,7 +3975,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[03-Week-2.md|← Tuần 2]]**
+> 🔗 **[[03-Week-2|← Tuần 2]]**
 
 # 📌 Tuần 3: Kiểm Soát Thời Gian (Time Control)
 
@@ -4882,7 +4882,7 @@ Yêu cầu:
 
 ---
 
-🔗 **[[05-Week-4.md|Sang Tuần 4 →]]**
+🔗 **[[05-Week-4|Sang Tuần 4 →]]**
 
 
 ---
@@ -4894,9 +4894,9 @@ updated: 2026-07-20
 
 # 📌 Tuần 4: Xây Dựng Đoạn Văn (Paragraph Builder)
 
-> 🔗 **[[04-Week-3.md|← Tuần 3]]**
+> 🔗 **[[04-Week-3|← Tuần 3]]**
 
-[[04-Week-3.md|← Tuần 3]]
+[[04-Week-3|← Tuần 3]]
 
 > **🎯 Mục tiêu lớn:** Nắm vững các từ nối (connectors) và cấu trúc đoạn văn T-S-E-F. Viết được đoạn văn 120 từ về chủ đề Technology & Health.
 
@@ -5743,7 +5743,7 @@ Yêu cầu:
 
 ---
 
-🔗 **[[06-Week-5.md|Sang Tuần 5 →]]**
+🔗 **[[06-Week-5|Sang Tuần 5 →]]**
 
 
 ---
@@ -5753,7 +5753,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[05-Week-4.md|← Tuần 4]]**
+> 🔗 **[[05-Week-4|← Tuần 4]]**
 
 # 📌 Tuần 5: Làm Quen Với IELTS (IELTS Bridge)
 
@@ -6693,7 +6693,7 @@ Yêu cầu:
 
 **🎉 Chúc mừng em đã hoàn thành Tuần 5!** Em đã học được cách sử dụng so sánh, từ vựng mô tả xu hướng và viết đoạn văn so sánh đơn giản. Đây là nền tảng quan trọng cho IELTS Task 1.
 
-🔗 **[[07-Week-6.md|Sang Tuần 6 →]]**
+🔗 **[[07-Week-6|Sang Tuần 6 →]]**
 
 
 ---
@@ -6703,7 +6703,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[06-Week-5.md|← Tuần 5]]**
+> 🔗 **[[06-Week-5|← Tuần 5]]**
 
 # 📌 Tuần 6: Tự Tin Đọc - Nghe (Reading & Listening Confidence)
 
@@ -7653,7 +7653,7 @@ Truy cập BBC Learning English, chọn 1 bài News Review. Đọc và nghe bài
 
 **🎉 Chúc mừng em đã hoàn thành Tuần 6!** Em đã học được mệnh đề quan hệ, kỹ năng đọc Skim/Scan, phân biệt số khi nghe, và làm quen với dạng True/False/Not Given — tất cả đều là kỹ năng quan trọng cho IELTS.
 
-🔗 **[[08-Week-7.md|Sang Tuần 7 →]]**
+🔗 **[[08-Week-7|Sang Tuần 7 →]]**
 
 
 ---
@@ -7663,7 +7663,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[07-Week-6.md|← Tuần 6]]**
+> 🔗 **[[07-Week-6|← Tuần 6]]**
 
 # 📌 Tuần 7: Tạo Sản Phẩm IELTS Có Hỗ Trợ (Supported IELTS Output)
 
@@ -8508,7 +8508,7 @@ Yêu cầu:
 
 ---
 
-🔗 **[[09-Week-8.md|Tuần 8: Mock Mini & Tổng Kết →]]**
+🔗 **[[09-Week-8|Tuần 8: Mock Mini & Tổng Kết →]]**
 
 
 ---
@@ -8518,7 +8518,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[08-Week-7.md|← Tuần 7]]**
+> 🔗 **[[08-Week-7|← Tuần 7]]**
 
 # 📌 Tuần 8: Mock Mini & Tổng Kết (Mini-mock & Review)
 
@@ -9630,7 +9630,7 @@ Hãy ăn mừng thành quả của mình — bạn xứng đáng với điều �
 
 ---
 
-🔗 **[[00-Dashboard.md|Quay lại Dashboard]]** | **🎉 Chúc mừng bạn đã hoàn thành!**
+🔗 **[[00-Dashboard|Quay lại Dashboard]]** | **🎉 Chúc mừng bạn đã hoàn thành!**
 
 
 ---

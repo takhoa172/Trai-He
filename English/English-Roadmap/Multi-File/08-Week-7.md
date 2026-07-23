@@ -3,7 +3,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[07-Week-6.md|← Tuần 6]]**
+> 🔗 **[[07-Week-6|← Tuần 6]]**
 
 # 📌 Tuần 7: Tạo Sản Phẩm IELTS Có Hỗ Trợ (Supported IELTS Output)
 
@@ -848,4 +848,4 @@ Yêu cầu:
 
 ---
 
-🔗 **[[09-Week-8.md|Tuần 8: Mock Mini & Tổng Kết →]]**
+🔗 **[[09-Week-8|Tuần 8: Mock Mini & Tổng Kết →]]**

@@ -5,9 +5,9 @@ updated: 2026-07-20
 
 # 📌 Tuần 4: Xây Dựng Đoạn Văn (Paragraph Builder)
 
-> 🔗 **[[04-Week-3.md|← Tuần 3]]**
+> 🔗 **[[04-Week-3|← Tuần 3]]**
 
-[[04-Week-3.md|← Tuần 3]]
+[[04-Week-3|← Tuần 3]]
 
 > **🎯 Mục tiêu lớn:** Nắm vững các từ nối (connectors) và cấu trúc đoạn văn T-S-E-F. Viết được đoạn văn 120 từ về chủ đề Technology & Health.
 
@@ -854,4 +854,4 @@ Yêu cầu:
 
 ---
 
-🔗 **[[06-Week-5.md|Sang Tuần 5 →]]**
+🔗 **[[06-Week-5|Sang Tuần 5 →]]**

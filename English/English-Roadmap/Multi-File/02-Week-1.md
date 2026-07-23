@@ -1249,4 +1249,4 @@ Hãy đứng trước gương và tự giới thiệu bản thân bằng tiếng
 >
 > 📱 **Nâng cấp:** Ghi âm lại và nghe lại — bạn sẽ thấy mình tiến bộ qua từng lần!
 
-➡️ Tuần sau: [[03-Week-2.md|Tuần 2: Kể Về Bản Thân]]
+➡️ Tuần sau: [[03-Week-2|Tuần 2: Kể Về Bản Thân]]

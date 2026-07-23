@@ -3,7 +3,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[06-Week-5.md|← Tuần 5]]**
+> 🔗 **[[06-Week-5|← Tuần 5]]**
 
 # 📌 Tuần 6: Tự Tin Đọc - Nghe (Reading & Listening Confidence)
 
@@ -953,4 +953,4 @@ Truy cập BBC Learning English, chọn 1 bài News Review. Đọc và nghe bài
 
 **🎉 Chúc mừng em đã hoàn thành Tuần 6!** Em đã học được mệnh đề quan hệ, kỹ năng đọc Skim/Scan, phân biệt số khi nghe, và làm quen với dạng True/False/Not Given — tất cả đều là kỹ năng quan trọng cho IELTS.
 
-🔗 **[[08-Week-7.md|Sang Tuần 7 →]]**
+🔗 **[[08-Week-7|Sang Tuần 7 →]]**

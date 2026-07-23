@@ -3,7 +3,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[05-Week-4.md|← Tuần 4]]**
+> 🔗 **[[05-Week-4|← Tuần 4]]**
 
 # 📌 Tuần 5: Làm Quen Với IELTS (IELTS Bridge)
 
@@ -943,4 +943,4 @@ Yêu cầu:
 
 **🎉 Chúc mừng em đã hoàn thành Tuần 5!** Em đã học được cách sử dụng so sánh, từ vựng mô tả xu hướng và viết đoạn văn so sánh đơn giản. Đây là nền tảng quan trọng cho IELTS Task 1.
 
-🔗 **[[07-Week-6.md|Sang Tuần 6 →]]**
+🔗 **[[07-Week-6|Sang Tuần 6 →]]**

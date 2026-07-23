@@ -25,7 +25,7 @@ updated: 2026-07-20
 | 📚 Từ vựng | 10-15 phút | 08:05 - 08:15 |
 | ✅ Tự kiểm tra | 5 phút | 08:15 - 08:20 |
 
-> 💡 *Hôm nay không có bài cũ để ôn. Hãy dành 10 phút để đọc trước tổng quan lộ trình ở [[00-Dashboard.md|Dashboard]].*
+> 💡 *Hôm nay không có bài cũ để ôn. Hãy dành 10 phút để đọc trước tổng quan lộ trình ở [[00-Dashboard|Dashboard]].*
 
 📖 **Nội dung bài học**
 Hôm nay bạn sẽ làm bài kiểm tra chẩn đoán đầu vào để đánh giá trình độ hiện tại. Bài test gồm 10 câu trắc nghiệm kiểm tra các kiến thức nền tảng: đại từ, động từ "to be", thì hiện tại đơn, thì quá khứ đơn, tính từ sở hữu, so sánh hơn, giới từ và mạo từ. Kết quả sẽ giúp bạn biết mình đang ở đâu và cần tập trung vào phần nào trong 8 tuần tới.
@@ -200,7 +200,7 @@ Sau khi làm bài test, hãy viết 2-3 câu trả lời các câu hỏi sau b�
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
+🔗 **[[01-Week-0#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
 
 ---
 
@@ -337,7 +337,7 @@ Ghép từ ở cột A với nghĩa ở cột B:
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
+🔗 **[[01-Week-0#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
 
 ---
 
@@ -519,7 +519,7 @@ F. "Hi John. I'm Minh."
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
+🔗 **[[01-Week-0#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
 
 ---
 
@@ -684,7 +684,7 @@ Viết các số 1-7 ra giấy theo thứ tự ngẫu nhiên. Đọc to các câ
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
+🔗 **[[01-Week-0#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
 
 ---
 
@@ -869,7 +869,7 @@ Tìm và sửa lỗi trong các câu sau, sau đó ghi vào Error Ledger:
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
+🔗 **[[01-Week-0#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
 
 ---
 
@@ -1016,7 +1016,7 @@ Viết một đoạn văn 3-5 câu giới thiệu bản thân (bắt chước đ
 
 ---
 
-🔗 **[[01-Week-0.md#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
+🔗 **[[01-Week-0#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
 
 ---
 
@@ -1285,4 +1285,4 @@ Sau tuần 0, bạn đã:
 
 ---
 
-🔗 **[[02-Week-1.md|Sang Tuần 1: Chào Hỏi & Giới Thiệu →]]**
+🔗 **[[02-Week-1|Sang Tuần 1: Chào Hỏi & Giới Thiệu →]]**

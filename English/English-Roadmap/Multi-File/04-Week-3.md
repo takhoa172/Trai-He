@@ -3,7 +3,7 @@ created: 2026-07-20
 updated: 2026-07-20
 ---
 
-> 🔗 **[[03-Week-2.md|← Tuần 2]]**
+> 🔗 **[[03-Week-2|← Tuần 2]]**
 
 # 📌 Tuần 3: Kiểm Soát Thời Gian (Time Control)
 
@@ -910,4 +910,4 @@ Yêu cầu:
 
 ---
 
-🔗 **[[05-Week-4.md|Sang Tuần 4 →]]**
+🔗 **[[05-Week-4|Sang Tuần 4 →]]**

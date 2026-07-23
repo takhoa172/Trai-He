@@ -5,7 +5,7 @@ updated: 2026-07-20
 
 # 📌 Tuần 2: Kể Về Bản Thân & Đời Sống (Personal English & Daily Life)
 
-> 🔗 **[[02-Week-1.md|← Tuần 1]]**
+> 🔗 **[[02-Week-1|← Tuần 1]]**
 
 ---
 
@@ -1290,4 +1290,4 @@ Viết 1 đoạn văn 50-70 từ miêu tả "Một ngày hoàn hảo" của bạ
 
 ---
 
-🔗 **[[04-Week-3.md|Sang Tuần 3 →]]**
+🔗 **[[04-Week-3|Sang Tuần 3 →]]**

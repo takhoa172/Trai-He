@@ -23,7 +23,7 @@ Lộ trình này được thiết kế cho **người mất gốc tiếng Anh** 
 
 ### Cách đọc lộ trình này
 
-1. **Bắt đầu từ [[01-Week-0.md|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
+1. **Bắt đầu từ [[01-Week-0|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
 2. **Mỗi ngày học 1 bài** — mỗi bài mất **60-90 phút**
 3. **Cuối mỗi tuần có Checkpoint** — ôn tập và tự đánh giá
 4. **Dùng [[wikilink]]** để điều hướng giữa các tuần
@@ -106,15 +106,15 @@ Mỗi lỗi gồm:
 
 | Tuần | Tên | Trọng tâm | Số ngày | Link |
 |---|---|---|---|---|
-| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[01-Week-0.md]] |
-| **1** | 🦴 Xây Dựng Xương Sống Câu (Sentence Backbone) | S+V+O, To be, Action verbs, Present Simple cơ bản | 7 | [[02-Week-1.md]] |
-| **2** | 📅 Kể Về Bản Thân & Đời Sống (Personal English) | Present Simple, Adverbs of frequency, Present Continuous, Daily routine | 7 | [[03-Week-2.md]] |
-| **3** | ⏰ Kiểm Soát Thời Gian (Time Control) | Past Simple (was/were, V-ed), Irregular verbs, Future with will/going to | 7 | [[04-Week-3.md]] |
-| **4** | ✍️ Xây Dựng Đoạn Văn (Paragraph Builder) | Connectors (because, so, but, although), Cấu trúc T-S-E-F | 7 | [[05-Week-4.md]] |
-| **5** | 📊 Làm Quen Với IELTS (IELTS Bridge) | Comparatives, Superlatives, Mô tả xu hướng, Task 1 Lite | 7 | [[06-Week-5.md]] |
-| **6** | 👂 Tự Tin Đọc - Nghe (Reading & Listening) | Relative clauses (who/which/that), Skim/Scan, True/False/Not Given, Phân biệt số | 7 | [[07-Week-6.md]] |
-| **7** | 🎯 Tạo Sản Phẩm IELTS (Supported IELTS Output) | Modal verbs (can/should/must), Problems & Solutions, Task 2 mini | 7 | [[08-Week-7.md]] |
-| **8** | 🎉 Mock Mini & Tổng Kết (Mini-mock & Review) | Ôn tập toàn bộ 8 tuần, Mock test, Letter to self | 7 | [[09-Week-8.md]] |
+| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[01-Week-0]] |
+| **1** | 🦴 Xây Dựng Xương Sống Câu (Sentence Backbone) | S+V+O, To be, Action verbs, Present Simple cơ bản | 7 | [[02-Week-1]] |
+| **2** | 📅 Kể Về Bản Thân & Đời Sống (Personal English) | Present Simple, Adverbs of frequency, Present Continuous, Daily routine | 7 | [[03-Week-2]] |
+| **3** | ⏰ Kiểm Soát Thời Gian (Time Control) | Past Simple (was/were, V-ed), Irregular verbs, Future with will/going to | 7 | [[04-Week-3]] |
+| **4** | ✍️ Xây Dựng Đoạn Văn (Paragraph Builder) | Connectors (because, so, but, although), Cấu trúc T-S-E-F | 7 | [[05-Week-4]] |
+| **5** | 📊 Làm Quen Với IELTS (IELTS Bridge) | Comparatives, Superlatives, Mô tả xu hướng, Task 1 Lite | 7 | [[06-Week-5]] |
+| **6** | 👂 Tự Tin Đọc - Nghe (Reading & Listening) | Relative clauses (who/which/that), Skim/Scan, True/False/Not Given, Phân biệt số | 7 | [[07-Week-6]] |
+| **7** | 🎯 Tạo Sản Phẩm IELTS (Supported IELTS Output) | Modal verbs (can/should/must), Problems & Solutions, Task 2 mini | 7 | [[08-Week-7]] |
+| **8** | 🎉 Mock Mini & Tổng Kết (Mini-mock & Review) | Ôn tập toàn bộ 8 tuần, Mock test, Letter to self | 7 | [[09-Week-8]] |
 
 ---
 
@@ -147,4 +147,4 @@ Mỗi lỗi gồm:
 
 > 🗣️ *"The secret of getting ahead is getting started." — Mark Twain*
 
-🔗 **Bắt đầu ngay:** [[01-Week-0.md|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
+🔗 **Bắt đầu ngay:** [[01-Week-0|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
