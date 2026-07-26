@@ -23,7 +23,7 @@ Lộ trình này được thiết kế cho **người mất gốc tiếng Anh** 
 
 ### Cách đọc lộ trình này
 
-1. **Bắt đầu từ [[01-Week-0|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
+1. **Bắt đầu từ [[My-Work_01-Week-0|Tuần 0]]** — làm bài kiểm tra chẩn đoán, thiết lập công cụ học tập
 2. **Mỗi ngày học 1 bài** — mỗi bài mất **60-90 phút**
 3. **Cuối mỗi tuần có Checkpoint** — ôn tập và tự đánh giá
 4. **Dùng [[wikilink]]** để điều hướng giữa các tuần
@@ -106,7 +106,7 @@ Mỗi lỗi gồm:
 
 | Tuần | Tên | Trọng tâm | Số ngày | Link |
 |---|---|---|---|---|
-| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[01-Week-0]] |
+| **0** | 🏗️ Chuẩn Bị & Chẩn Đoán | Kiểm tra đầu vào, thiết lập 4 công cụ học tập | 7 | [[My-Work_01-Week-0]] |
 | **1** | 🦴 Xây Dựng Xương Sống Câu (Sentence Backbone) | S+V+O, To be, Action verbs, Present Simple cơ bản | 7 | [[02-Week-1]] |
 | **2** | 📅 Kể Về Bản Thân & Đời Sống (Personal English) | Present Simple, Adverbs of frequency, Present Continuous, Daily routine | 7 | [[03-Week-2]] |
 | **3** | ⏰ Kiểm Soát Thời Gian (Time Control) | Past Simple (was/were, V-ed), Irregular verbs, Future with will/going to | 7 | [[04-Week-3]] |
@@ -147,7 +147,7 @@ Mỗi lỗi gồm:
 
 > 🗣️ *"The secret of getting ahead is getting started." — Mark Twain*
 
-🔗 **Bắt đầu ngay:** [[01-Week-0|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
+🔗 **Bắt đầu ngay:** [[My-Work_01-Week-0|Tuần 0: Chuẩn Bị & Chẩn Đoán →]]
 
 
 ---
@@ -354,7 +354,7 @@ Sau khi làm bài test, hãy viết 2-3 câu trả lời các câu hỏi sau b�
 
 ---
 
-🔗 **[[01-Week-0#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-2-continue-diagnostic|Sang Day 2 →]]**
 
 ---
 
@@ -491,7 +491,7 @@ Ghép từ ở cột A với nghĩa ở cột B:
 
 ---
 
-🔗 **[[01-Week-0#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-3-set-up-sentence-garden|Sang Day 3 →]]**
 
 ---
 
@@ -673,7 +673,7 @@ F. "Hi John. I'm Minh."
 
 ---
 
-🔗 **[[01-Week-0#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-4-set-up-vocabulary-rooms|Sang Day 4 →]]**
 
 ---
 
@@ -838,7 +838,7 @@ Viết các số 1-7 ra giấy theo thứ tự ngẫu nhiên. Đọc to các câ
 
 ---
 
-🔗 **[[01-Week-0#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-5-set-up-error-ledger--review-calendar|Sang Day 5 →]]**
 
 ---
 
@@ -1023,7 +1023,7 @@ Tìm và sửa lỗi trong các câu sau, sau đó ghi vào Error Ledger:
 
 ---
 
-🔗 **[[01-Week-0#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-6-reading--imitation-practice|Sang Day 6 →]]**
 
 ---
 
@@ -1170,7 +1170,7 @@ Viết một đoạn văn 3-5 câu giới thiệu bản thân (bắt chước đ
 
 ---
 
-🔗 **[[01-Week-0#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
+🔗 **[[My-Work_01-Week-0#📅-day-7-week-0-checkpoint|Sang Day 7 →]]**
 
 ---
 

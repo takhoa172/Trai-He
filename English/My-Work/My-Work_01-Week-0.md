@@ -181,3 +181,74 @@
 4. B: Nice to meet you too, John!
 5. A: I am from Hanoi. Where are you from?
 6. D: I am from Ho Chi Minh City.
+
+---
+
+## 📅 Ngày 4 — Set Up Vocabulary Rooms
+
+### 📝 Bài 1: Tạo Vocabulary Rooms
+
+✅ Đã tạo file `Study-Notebook/Vocabulary-Rooms.md` với 4 phòng:
+- 🏠 Me (13 từ)
+- 🏠 Family (chờ điền)
+- 🏠 School (7 từ)
+- 🏠 Numbers (7 từ)
+
+---
+
+### 🔢 Bài 2: Mở rộng câu với số đếm
+
+| #   | Câu                                 | Tôi điền | Đáp án               | Kết quả              |
+| --- | ----------------------------------- | -------- | -------------------- | -------------------- |
+| 1   | There are ___ days in a week.       | seven    | Seven                | ✅                    |
+| 2   | I have ___ hands.                   | one      | **two**              | ❌                    |
+| 3   | A triangle has ___ sides.           | 3        | **three**            | ❌ Ghi số thay vì chữ |
+| 4   | A week has ___ Mondays.             | one      | one                  | ✅                    |
+| 5   | There are ___ chairs and ___ table. | five     | **four** and **one** | ❌                    |
+
+---
+
+### 📦 Bài 3: Sắp xếp từ vào phòng
+
+| Me 🏠 | Family 🏠 | School 🏠 |
+|-------|----------|----------|
+| hello | mother | book |
+| goodbye | father | pen |
+| name | sister | eraser |
+| thank you | brother | desk |
+| sorry | | chair |
+| | | board |
+
+✅ Các từ đã được thêm vào `Vocabulary-Rooms.md` tương ứng.
+
+---
+
+### 🌿 Bài 4: Thêm 3 câu vào Sentence Garden
+
+| #   | Câu tôi viết                 | Câu đúng                      | Kết quả                 |
+| --- | ---------------------------- | ----------------------------- | ----------------------- |
+| 1   | My family have four number   | My family has four people     | ❌ Sai have/has + sai từ |
+| 2   | I have one dog               | I have one dog                | ✅                       |
+| 3   | There are six pen on my desk | There are six pens on my desk | ❌ Thiếu "s" số nhiều    |
+
+---
+
+### 🎲 Bài 5: Bingo số
+
+| # | Câu | Tôi điền | Đáp án | Kết quả |
+|---|-----|---------|--------|---------|
+| 1 | I am twenty-___ years old. | one | twenty-one | ✅ |
+| 2 | There are ___ people in my family. | four | four | ✅ |
+| 3 | I have ___ apples. | three | three | ✅ |
+| 4 | She needs ___ pens. | two | two | ✅ |
+| 5 | We have ___ cats. | one | one | ✅ |
+| 6 | There are ___ books on the desk. | serven | **seven** | ❌ Sai chính tả |
+| 7 | He is ___ years old. | threety-two | **thirty-two** | ❌ Sai chính tả |
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **3 phòng từ vựng đã tạo:** Me (13 từ), Family (4 từ), School (7 từ), Numbers (7 từ)
+2. **Số đếm 1-7:** one, two, three, four, five, six, seven
+3. **There is/are:** There is a computer on my desk.
