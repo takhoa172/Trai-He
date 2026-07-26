@@ -20,12 +20,12 @@
 
 ## 🏠 Family (Gia đình)
 
-| # | Từ | IPA | Nghĩa | Ví dụ |
-|---|-----|-----|-------|-------|
-| 1 | mother | /ˈmʌðər/ | mẹ | |
-| 2 | father | /ˈfɑːðər/ | bố | |
-| 3 | sister | /ˈsɪstər/ | chị/em gái | |
-| 4 | brother | /ˈbrʌðər/ | anh/em trai | |
+| #   | Từ      | IPA       | Nghĩa       | Ví dụ |
+| --- | ------- | --------- | ----------- | ----- |
+| 1   | mother  | /ˈmʌðər/  | mẹ          |       |
+| 2   | father  | /ˈfɑːðər/ | bố          |       |
+| 3   | sister  | /ˈsɪstər/ | chị/em gái  |       |
+| 4   | brother | /ˈbrʌðər/ | anh/em trai |       |
 
 ## 🏠 School (Trường học)
 
@@ -38,6 +38,18 @@
 | 5 | chair | /tʃɛər/ | ghế | |
 | 6 | board | /bɔːrd/ | bảng | |
 | 7 | eraser | /ɪˈreɪsər/ | tẩy | |
+
+## 🏠 Colors (Màu sắc)
+
+| # | Từ | IPA | Nghĩa | Ví dụ |
+|---|-----|-----|-------|-------|
+| 1 | red | /rɛd/ | đỏ | The apple is red. |
+| 2 | blue | /bluː/ | xanh dương | The sky is blue. |
+| 3 | green | /ɡriːn/ | xanh lá | The grass is green. |
+| 4 | yellow | /ˈjɛloʊ/ | vàng | The sun is yellow. |
+| 5 | black | /blæk/ | đen | My pen is black. |
+| 6 | white | /waɪt/ | trắng | The paper is white. |
+| 7 | pink | /pɪŋk/ | hồng | The flower is pink. |
 
 ## 🏠 Numbers (Số đếm)
 

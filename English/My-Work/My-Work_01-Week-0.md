@@ -252,3 +252,66 @@
 1. **3 phòng từ vựng đã tạo:** Me (13 từ), Family (4 từ), School (7 từ), Numbers (7 từ)
 2. **Số đếm 1-7:** one, two, three, four, five, six, seven
 3. **There is/are:** There is a computer on my desk.
+
+---
+
+## 📅 Ngày 5 — Error Ledger & Review Calendar
+
+### 📕 Bài 1: Tạo Error Ledger
+
+✅ Đã tạo file `Study-Notebook/Error-Ledger.md` với 7 lỗi từ Days 1-4:
+
+| Ngày | Lỗi |
+|------|-----|
+| Day 1 | Thiếu "a/an", thiếu "is", sai trật tự từ |
+| Day 2 | Sai "a→the", sai "writer in→write on" |
+| Day 4 | Quên "s" số nhiều, sai "have/has" |
+
+---
+
+### 📆 Bài 2: Tạo Review Calendar
+
+✅ Đã tạo file `Study-Notebook/Review-Calendar.md` với lịch ôn Tuần 0 (Day 1→7).
+
+---
+
+### 🎨 Bài 3: Mô tả màu sắc
+
+| # | Câu gốc | Tôi viết | Đáp án | Kết quả |
+|---|---------|---------|--------|---------|
+| 1 | The sky ___ | Blue | blue | ✅ |
+| 2 | My pen ___ | Black | black | ✅ |
+| 3 | The sun ___ | Yellow | yellow | ✅ |
+| 4 | The flowers ___ | Pink | pink | ✅ |
+| 5 | This book ___ | Red | red | ✅ |
+
+**Kết quả: 5/5 đúng** ✅
+
+---
+
+### ✏️ Bài 4: Điền từ màu sắc
+
+| # | Câu gốc | Tôi điền | Đáp án | Kết quả |
+|---|---------|---------|--------|---------|
+| 1 | An apple is ___ or green | red or green | red or green | ✅ |
+| 2 | A banana is ___ | Yellow | yellow | ✅ |
+| 3 | Snow is ___ | white | white | ✅ |
+| 4 | Night sky is ___ | Black | black | ✅ |
+| 5 | Grass is ___ | green | green | ✅ |
+
+**Kết quả: 5/5 đúng** ✅
+
+---
+
+### 🔧 Bài 5: Tìm và sửa lỗi
+
+| # | Câu sai | Tôi sửa | Đáp án | Kết quả |
+|---|---------|---------|--------|---------|
+| 1 | She go to school | goes | goes | ✅ |
+| 2 | I are a student | am | am | ✅ |
+| 3 | He have a book | has | has | ✅ |
+| 4 | There is three cats | are | are | ✅ |
+| 5 | My name are John | is | is | ✅ |
+
+**Kết quả: 5/5 đúng** ✅
+
