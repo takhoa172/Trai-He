@@ -51,6 +51,18 @@
 | 6 | white | /waɪt/ | trắng | The paper is white. |
 | 7 | pink | /pɪŋk/ | hồng | The flower is pink. |
 
+## 🏠 Days of Week (Thứ trong tuần)
+
+| # | Từ | IPA | Nghĩa | Ví dụ |
+|---|-----|-----|-------|-------|
+| 1 | Monday | /ˈmʌndeɪ/ | thứ Hai | I go to school on Monday. |
+| 2 | Tuesday | /ˈtjuːzdeɪ/ | thứ Ba | Tuesday is my favorite day. |
+| 3 | Wednesday | /ˈwɛnzdeɪ/ | thứ Tư | I have English on Wednesday. |
+| 4 | Thursday | /ˈθɜːrzdeɪ/ | thứ Năm | Thursday comes after Wednesday. |
+| 5 | Friday | /ˈfraɪdeɪ/ | thứ Sáu | Friday is the last school day. |
+| 6 | Saturday | /ˈsætərdeɪ/ | thứ Bảy | I play football on Saturday. |
+| 7 | Sunday | /ˈsʌndeɪ/ | Chủ Nhật | Sunday is a day of rest. |
+
 ## 🏠 Numbers (Số đếm)
 
 | # | Từ | IPA | Nghĩa | Ví dụ |

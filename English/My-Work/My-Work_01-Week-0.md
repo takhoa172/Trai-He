@@ -315,3 +315,54 @@
 
 **Kết quả: 5/5 đúng** ✅
 
+---
+
+## 📅 Ngày 6 — Reading & Imitation Practice
+
+### 📖 Bài 1: Đọc hiểu — Lisa
+
+| # | Câu hỏi | Tôi trả lời | Đáp án | Kết quả |
+|---|---------|------------|--------|---------|
+| 1 | What is her name? | Lisa | Her name is Lisa | ⚠️ Thiếu "Her name is" |
+| 2 | How old is she? | Twenty years old | **22** years old | ❌ Sai số |
+| 3 | Where is she from? | From Vietnam | She is from Vietnam | ✅ |
+| 4 | What color is her book? | Red | Her book is red | ✅ |
+| 5 | What is her favorite color? | Pink | Her favorite color is pink | ✅ |
+| 6 | When does she go to school? | Monday to Friday | From Monday to Friday | ✅ |
+| 7 | What does she do on Sat & Sun? | Stay at home | She stays at home | ✅ |
+
+---
+
+### 🔤 Bài 4: Đoạn văn giới thiệu bản thân
+
+| Câu | Tôi viết | Đúng | Lỗi |
+|-----|---------|:----:|-----|
+| 1 | Hello! My name is Khoa | ✅ | |
+| 2 | I am a student | ✅ | |
+| 3 | I am twenty years old | ✅ | |
+| 4 | I am from VietNam | ⚠️ | → Vietnam |
+| 5 | I have a red pen and a white book | ✅ | |
+| 6 | I favorite play game | ❌ | → My hobby is playing games |
+| 7 | I fell good and happy | ❌ | → I feel happy |
+
+---
+
+### 📅 Bài 5: Điền thứ trong tuần
+
+| # | Câu gốc | Tôi điền | Đáp án | Kết quả |
+|---|---------|---------|--------|---------|
+| 1 | The first day of school week is ___ | Monday | Monday | ✅ |
+| 2 | The day after Tuesday is ___ | Wednday | **Wednesday** | ❌ Sai chính tả |
+| 3 | The last day of the week is ___ | Sunday | Sunday | ✅ |
+| 4 | The day before Friday is ___ | Thurday | **Thursday** | ❌ Sai chính tả |
+| 5 | TGIF — Thank God It's ___! | No problem | **Friday** | ❌ Sai |
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **7 thứ trong tuần:** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+2. **Đoạn văn:** Cần sửa 3 lỗi (Vietnam, hobby, feel)
+3. **5 lớp:** Meaning (1), Form (2), Sound (3), Use (4), Review (5)
+
+

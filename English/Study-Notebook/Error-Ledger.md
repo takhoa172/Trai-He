@@ -107,5 +107,30 @@
 
 ---
 
+### 📆 Day 6 — Reading & Imitation
+
+#### Lỗi 11: Sai tuổi (twenty → 22)
+
+- **❌ Sai:** She is twenty years old.
+- **✅ Đúng:** She is **22** years old.
+- **📖 Nguyên tắc:** Đọc kỹ thông tin bài — Lisa 22 tuổi, không phải 20.
+- **🔁 Review:** 2026-07-28 (L1) | 2026-08-04 (L2)
+
+#### Lỗi 12: Sai "favorite" → "hobby"
+
+- **❌ Sai:** I favorite play game.
+- **✅ Đúng:** My hobby is playing games.
+- **📖 Nguyên tắc:** "favorite" là tính từ. Dùng "My hobby is + V-ing" để nói sở thích.
+- **🔁 Review:** 2026-07-28 (L1) | 2026-08-04 (L2)
+
+#### Lỗi 13: Sai chính tả "fell" → "feel"
+
+- **❌ Sai:** I fell happy.
+- **✅ Đúng:** I **feel** happy.
+- **📖 Nguyên tắc:** "fell" (ngã) ≠ "feel" (cảm thấy).
+- **🔁 Review:** 2026-07-28 (L1) | 2026-08-04 (L2)
+
+---
+
 ## 📅 Tuần 1
 *(sẽ thêm khi học)*
