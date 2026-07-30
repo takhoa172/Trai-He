@@ -321,41 +321,41 @@
 
 ### 📖 Bài 1: Đọc hiểu — Lisa
 
-| # | Câu hỏi | Tôi trả lời | Đáp án | Kết quả |
-|---|---------|------------|--------|---------|
-| 1 | What is her name? | Lisa | Her name is Lisa | ⚠️ Thiếu "Her name is" |
-| 2 | How old is she? | Twenty years old | **22** years old | ❌ Sai số |
-| 3 | Where is she from? | From Vietnam | She is from Vietnam | ✅ |
-| 4 | What color is her book? | Red | Her book is red | ✅ |
-| 5 | What is her favorite color? | Pink | Her favorite color is pink | ✅ |
-| 6 | When does she go to school? | Monday to Friday | From Monday to Friday | ✅ |
-| 7 | What does she do on Sat & Sun? | Stay at home | She stays at home | ✅ |
+| #   | Câu hỏi                        | Tôi trả lời      | Đáp án                     | Kết quả                |
+| --- | ------------------------------ | ---------------- | -------------------------- | ---------------------- |
+| 1   | What is her name?              | Lisa             | Her name is Lisa           | ⚠️ Thiếu "Her name is" |
+| 2   | How old is she?                | Twenty years old | **22** years old           | ❌ Sai số               |
+| 3   | Where is she from?             | From Vietnam     | She is from Vietnam        | ✅                      |
+| 4   | What color is her book?        | Red              | Her book is red            | ✅                      |
+| 5   | What is her favorite color?    | Pink             | Her favorite color is pink | ✅                      |
+| 6   | When does she go to school?    | Monday to Friday | From Monday to Friday      | ✅                      |
+| 7   | What does she do on Sat & Sun? | Stay at home     | She stays at home          | ✅                      |
 
 ---
 
 ### 🔤 Bài 4: Đoạn văn giới thiệu bản thân
 
-| Câu | Tôi viết | Đúng | Lỗi |
-|-----|---------|:----:|-----|
-| 1 | Hello! My name is Khoa | ✅ | |
-| 2 | I am a student | ✅ | |
-| 3 | I am twenty years old | ✅ | |
-| 4 | I am from VietNam | ⚠️ | → Vietnam |
-| 5 | I have a red pen and a white book | ✅ | |
-| 6 | I favorite play game | ❌ | → My hobby is playing games |
-| 7 | I fell good and happy | ❌ | → I feel happy |
+| Câu | Tôi viết                          | Đúng | Lỗi                         |
+| --- | --------------------------------- | :--: | --------------------------- |
+| 1   | Hello! My name is Khoa            |  ✅   |                             |
+| 2   | I am a student                    |  ✅   |                             |
+| 3   | I am twenty years old             |  ✅   |                             |
+| 4   | I am from VietNam                 |  ⚠️  | → Vietnam                   |
+| 5   | I have a red pen and a white book |  ✅   |                             |
+| 6   | I favorite play game              |  ❌   | → My hobby is playing games |
+| 7   | I fell good and happy             |  ❌   | → I feel happy              |
 
 ---
 
 ### 📅 Bài 5: Điền thứ trong tuần
 
-| # | Câu gốc | Tôi điền | Đáp án | Kết quả |
-|---|---------|---------|--------|---------|
-| 1 | The first day of school week is ___ | Monday | Monday | ✅ |
-| 2 | The day after Tuesday is ___ | Wednday | **Wednesday** | ❌ Sai chính tả |
-| 3 | The last day of the week is ___ | Sunday | Sunday | ✅ |
-| 4 | The day before Friday is ___ | Thurday | **Thursday** | ❌ Sai chính tả |
-| 5 | TGIF — Thank God It's ___! | No problem | **Friday** | ❌ Sai |
+| #   | Câu gốc                             | Tôi điền   | Đáp án        | Kết quả        |
+| --- | ----------------------------------- | ---------- | ------------- | -------------- |
+| 1   | The first day of school week is ___ | Monday     | Monday        | ✅              |
+| 2   | The day after Tuesday is ___        | Wednday    | **Wednesday** | ❌ Sai chính tả |
+| 3   | The last day of the week is ___     | Sunday     | Sunday        | ✅              |
+| 4   | The day before Friday is ___        | Thurday    | **Thursday**  | ❌ Sai chính tả |
+| 5   | TGIF — Thank God It's ___!          | No problem | **Friday**    | ❌ Sai          |
 
 ---
 
@@ -365,4 +365,64 @@
 2. **Đoạn văn:** Cần sửa 3 lỗi (Vietnam, hobby, feel)
 3. **5 lớp:** Meaning (1), Form (2), Sound (3), Use (4), Review (5)
 
+---
 
+## 📅 Ngày 7 — Week 0 Checkpoint
+
+### 📝 Bài 1: Big Review — Trắc nghiệm tổng hợp (15 câu)
+
+**Phần A — Từ vựng (5 câu)**
+
+| # | Câu hỏi | Tôi trả lời | Đáp án | Kết quả |
+|---|---------|:-----------:|:------:|:-------:|
+| 1 | "___" is a color | red | red | ✅ |
+| 2 | "___" is a day of the week | Monday | Monday | ✅ |
+| 3 | "___" means "bút" | Pen | pen | ✅ |
+| 4 | "___" means "một" | One | one | ✅ |
+| 5 | "___" means "cảm ơn" | Thank you | thank you | ✅ |
+
+**Phần B — Ngữ pháp (5 câu)**
+
+| # | Câu hỏi | Tôi trả lời | Đáp án | Kết quả |
+|---|---------|:-----------:|:------:|:-------:|
+| 6 | I ___ a teacher | am | am | ✅ |
+| 7 | She ___ from Vietnam | is | is | ✅ |
+| 8 | They ___ students | are | are | ✅ |
+| 9 | There ___ a book on the desk | is | is | ✅ |
+| 10 | There ___ two chairs in the room | are | are | ✅ |
+
+**Phần C — Đọc hiểu (5 câu)**
+
+| # | Câu hỏi | Tôi trả lời | Đáp án | Kết quả |
+|---|---------|:-----------:|:------:|:-------:|
+| 11 | What is his name? | His name is Tom | Tom | ✅ |
+| 12 | How old is he? | 25 (twenty five) | 25 | ✅ |
+| 13 | Where is he from? | England | England | ✅ |
+| 14 | What color is his book? | green | green | ✅ |
+| 15 | When does he go to school? | Monday to Friday | **From** Monday to Friday | ❌ Thiếu "From" |
+
+**Kết quả: 14/15 đúng — Xuất sắc 🎉**
+
+---
+
+### 🎯 Bài 5: Tự đánh giá cuối tuần
+
+| Mục | Điểm (1-10) |
+|-----|:----------:|
+| 📖 Từ vựng (nhớ được bao nhiêu từ?) | 9 |
+| 🧱 Ngữ pháp (hiểu to be + hiện tại đơn?) | 5 |
+| 🔊 Phát âm (đọc đúng âm cơ bản?) | 6 |
+| ✍️ Viết (viết được câu đơn giản?) | 5 |
+| 🔧 Công cụ (tạo đủ 4 công cụ?) | 10 |
+| 📅 Kỷ luật (học đủ 7 ngày?) | 6 |
+| **🎯 Tổng trung bình** | **6.8 ≈ 7** |
+
+📌 Nhận xét: TB ≥ 5 ✅ → Sẵn sàng sang Tuần 1. Trọng tâm Tuần 1: **Ngữ pháp + Viết**.
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **42 từ mới** trong tuần 0 ✅
+2. **4 công cụ học tập** đã tạo đầy đủ ✅
+3. **Sẵn sàng cho Tuần 1** — tập trung Ngữ pháp (to be, hiện tại đơn) + Viết câu ✅

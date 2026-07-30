@@ -58,3 +58,10 @@
 - **Use:** Mô tả số lượng đồ vật ở một nơi
 - **Review:** 2026-07-26 (L1)
 
+### 🌿 Câu 9: He goes to school from Monday to Friday.
+- **Meaning:** Anh ấy đi học từ thứ Hai đến thứ Sáu.
+- **Form:** S + V-s/es + from + N + to + N
+- **Sound:** /hiː ɡoʊz tə skuːl frɒm ˈmʌndeɪ tə ˈfraɪdeɪ/
+- **Use:** Nói về lịch trình hoặc thời gian biểu
+- **Review:** 2026-07-30 (L1)
+

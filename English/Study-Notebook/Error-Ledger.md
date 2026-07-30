@@ -132,5 +132,17 @@
 
 ---
 
+### 📆 Day 7 — Week 0 Checkpoint
+
+#### Lỗi 14: Thiếu "From" trong cấu trúc "from...to..."
+
+- **❌ Sai:** He goes to school Monday to Friday.
+- **✅ Đúng:** He goes to school **from** Monday to Friday.
+- **📖 Nguyên tắc:** Dùng "from...to..." để chỉ khoảng thời gian.
+  - from Monday to Friday / from 8am to 5pm
+- **🔁 Review:** 2026-07-30 (L1) | 2026-08-06 (L2)
+
+---
+
 ## 📅 Tuần 1
 *(sẽ thêm khi học)*
