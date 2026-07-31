@@ -11,3 +11,9 @@
 | Day 5 — Error Ledger & Review |    ✅     |      ❌      |      ❌       |      ❌       |
 | Day 6 — Reading & Imitation   |    ✅     |      ❌      |      ❌       |      ❌       |
 | Day 7 — Week 0 Checkpoint     |    ✅     |      ❌      |      ❌       |      ❌       |
+
+## 📅 Tuần 1
+
+| Nội dung                   | L1 (24h) | L2 (7 ngày) | L3 (30 ngày) | L4 (90 ngày) |
+| -------------------------- | :------: | :---------: | :----------: | :----------: |
+| Day 1 — Sentence Backbone  |    ✅     |      ❌      |      ❌       |      ❌       |

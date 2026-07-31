@@ -65,3 +65,17 @@
 - **Use:** Nói về lịch trình hoặc thời gian biểu
 - **Review:** 2026-07-30 (L1)
 
+### 🌿 Câu 10: My father reads a book.
+- **Meaning:** Bố tôi đọc một quyển sách.
+- **Form:** S (người số ít) + V-s/es + a/an + O
+- **Sound:** /maɪ ˈfɑːðər riːdz ə bʊk/
+- **Use:** Nói về hoạt động thường xuyên của người khác
+- **Review:** 2026-08-01 (L1)
+
+### 🌿 Câu 11: The teacher helps students.
+- **Meaning:** Cô giáo giúp đỡ các học sinh.
+- **Form:** S + V-s/es + O (số nhiều)
+- **Sound:** /ðə ˈtiːtʃər hɛlps ˈstuːdənts/
+- **Use:** Mô tả việc ai đó làm cho người khác
+- **Review:** 2026-08-01 (L1)
+

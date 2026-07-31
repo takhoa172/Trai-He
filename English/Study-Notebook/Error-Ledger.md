@@ -145,4 +145,29 @@
 ---
 
 ## 📅 Tuần 1
-*(sẽ thêm khi học)*
+
+### 📆 Day 1 — Sentence Backbone
+
+#### Lỗi 15: Thêm "s" thừa với chủ ngữ "I"
+
+- **❌ Sai:** I **loves** my mother.
+- **✅ Đúng:** I **love** my mother.
+- **📖 Nguyên tắc:** I/You/We/They → V nguyên mẫu (KHÔNG thêm s). Chỉ He/She/It + 1 người mới thêm s/es.
+  - I love / You play / We read / They study
+  - She loves / He plays / My father reads
+- **🔁 Review:** 2026-08-01 (L1) | 2026-08-08 (L2)
+
+#### Lỗi 16: Sót tân ngữ O khi dịch
+
+- **❌ Sai:** My mother reads every night. (thiếu "a book")
+- **✅ Đúng:** My mother reads **a book** in the evening.
+- **📖 Nguyên tắc:** Dịch đủ S + V + O — "đọc sách" = read **a book**, "học tiếng Anh" = study **English**.
+  - read a book / study English / play soccer
+- **🔁 Review:** 2026-08-01 (L1) | 2026-08-08 (L2)
+
+#### ⚠️ Lặp lại Lỗi 6: Quên "s" số nhiều (lần 3)
+
+- **❌ Sai:** The teacher helps student.
+- **✅ Đúng:** The teacher helps **students**.
+- **📖 Nguyên tắc:** Đã ghi ở Lỗi 6 — số nhiều ≥ 2 thêm "s".
+- **🔁 Review:** 2026-08-01 (L1) | 2026-08-08 (L2)

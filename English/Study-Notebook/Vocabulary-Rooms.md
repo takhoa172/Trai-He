@@ -17,15 +17,16 @@
 | 11 | what | /wɒt/ | gì | |
 | 12 | where | /wɛər/ | ở đâu | |
 | 13 | who | /huː/ | ai | |
+| 14 | friend | /frend/ | bạn | My friend plays music. |
 
 ## 🏠 Family (Gia đình)
 
 | #   | Từ      | IPA       | Nghĩa       | Ví dụ |
 | --- | ------- | --------- | ----------- | ----- |
-| 1   | mother  | /ˈmʌðər/  | mẹ          |       |
-| 2   | father  | /ˈfɑːðər/ | bố          |       |
-| 3   | sister  | /ˈsɪstər/ | chị/em gái  |       |
-| 4   | brother | /ˈbrʌðər/ | anh/em trai |       |
+| 1   | mother  | /ˈmʌðər/  | mẹ          | My mother is a teacher. |
+| 2   | father  | /ˈfɑːðər/ | bố          | My father reads a book. |
+| 3   | sister  | /ˈsɪstər/ | chị/em gái  | My sister studies English. |
+| 4   | brother | /ˈbrʌðər/ | anh/em trai | My brother plays soccer. |
 
 ## 🏠 School (Trường học)
 
@@ -38,6 +39,8 @@
 | 5 | chair | /tʃɛər/ | ghế | |
 | 6 | board | /bɔːrd/ | bảng | |
 | 7 | eraser | /ɪˈreɪsər/ | tẩy | |
+| 8 | teacher | /ˈtiːtʃər/ | giáo viên | The teacher helps students. |
+| 9 | student | /ˈstuːdənt/ | học sinh | The student writes a story. |
 
 ## 🏠 Colors (Màu sắc)
 
