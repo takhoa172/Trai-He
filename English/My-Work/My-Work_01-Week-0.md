@@ -426,3 +426,5 @@
 1. **42 từ mới** trong tuần 0 ✅
 2. **4 công cụ học tập** đã tạo đầy đủ ✅
 3. **Sẵn sàng cho Tuần 1** — tập trung Ngữ pháp (to be, hiện tại đơn) + Viết câu ✅
+
+

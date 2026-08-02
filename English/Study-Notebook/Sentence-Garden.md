@@ -79,3 +79,17 @@
 - **Use:** Mô tả việc ai đó làm cho người khác
 - **Review:** 2026-08-01 (L1)
 
+### 🌿 Câu 12: She is happy.
+- **Meaning:** Cô ấy hạnh phúc.
+- **Form:** S + is + adj
+- **Sound:** /ʃiː ɪz ˈhæpi/
+- **Use:** Mô tả trạng thái/cảm xúc của người
+- **Review:** 2026-08-02 (L1)
+
+### 🌿 Câu 13: Are you a student?
+- **Meaning:** Bạn có phải là học sinh không?
+- **Form:** Am/Is/Are + S + N?
+- **Sound:** /ɑːr juː ə ˈstuːdənt/
+- **Use:** Hỏi về thông tin của người khác
+- **Review:** 2026-08-02 (L1)
+

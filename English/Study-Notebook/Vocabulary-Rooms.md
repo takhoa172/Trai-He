@@ -18,6 +18,7 @@
 | 12 | where | /wɛər/ | ở đâu | |
 | 13 | who | /huː/ | ai | |
 | 14 | friend | /frend/ | bạn | My friend plays music. |
+| 15 | happy | /ˈhæpi/ | vui vẻ, hạnh phúc | I am happy. |
 
 ## 🏠 Family (Gia đình)
 
@@ -27,20 +28,26 @@
 | 2   | father  | /ˈfɑːðər/ | bố          | My father reads a book. |
 | 3   | sister  | /ˈsɪstər/ | chị/em gái  | My sister studies English. |
 | 4   | brother | /ˈbrʌðər/ | anh/em trai | My brother plays soccer. |
+| 5   | family  | /ˈfæməli/ | gia đình     | My family is happy. |
 
 ## 🏠 School (Trường học)
 
-| # | Từ | IPA | Nghĩa | Ví dụ |
-|---|-----|-----|-------|-------|
-| 1 | book | /bʊk/ | sách | |
-| 2 | pen | /pen/ | bút | |
-| 3 | paper | /ˈpeɪpər/ | giấy | |
-| 4 | desk | /desk/ | bàn học | |
-| 5 | chair | /tʃɛər/ | ghế | |
-| 6 | board | /bɔːrd/ | bảng | |
-| 7 | eraser | /ɪˈreɪsər/ | tẩy | |
-| 8 | teacher | /ˈtiːtʃər/ | giáo viên | The teacher helps students. |
-| 9 | student | /ˈstuːdənt/ | học sinh | The student writes a story. |
+| #   | Từ       | IPA          | Nghĩa          | Ví dụ                       |
+| --- | -------- | ------------ | -------------- | --------------------------- |
+| 1   | book     | /bʊk/        | sách           |                             |
+| 2   | pen      | /pen/        | bút            |                             |
+| 3   | paper    | /ˈpeɪpər/    | giấy           |                             |
+| 4   | desk     | /desk/       | bàn học        |                             |
+| 5   | chair    | /tʃɛər/      | ghế            |                             |
+| 6   | board    | /bɔːrd/      | bảng           |                             |
+| 7   | eraser   | /ɪˈreɪsər/   | tẩy            |                             |
+| 8   | teacher  | /ˈtiːtʃər/   | giáo viên      | The teacher helps students. |
+| 9   | student  | /ˈstuːdənt/  | học sinh       | The student writes a story. |
+| 10  | school   | /skuːl/      | trường học     | My school is big.           |
+| 11  | class    | /klæs/       | lớp học        | My class is small.          |
+| 12  | lesson   | /ˈlesən/     | bài học        | The lesson is easy.         |
+| 13  | homework | /ˈhoʊmwɜːrk/ | bài tập về nhà | The homework is long.       |
+| 14  | test     | /test/       | bài kiểm tra   | The test is difficult.      |
 
 ## 🏠 Colors (Màu sắc)
 

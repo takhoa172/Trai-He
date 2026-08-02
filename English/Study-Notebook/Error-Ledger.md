@@ -171,3 +171,49 @@
 - **✅ Đúng:** The teacher helps **students**.
 - **📖 Nguyên tắc:** Đã ghi ở Lỗi 6 — số nhiều ≥ 2 thêm "s".
 - **🔁 Review:** 2026-08-01 (L1) | 2026-08-08 (L2)
+
+---
+
+### 📆 Day 2 — Verb "to be"
+
+#### Lỗi 17: Sai trật tự tính từ
+
+- **❌ Sai:** Is it **big a** school?
+- **✅ Đúng:** Is it **a big** school?
+- **📖 Nguyên tắc:** Mạo từ + tính từ + danh từ: **a/an + adj + N**.
+  - a big school / a red pen / a small cat
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+#### Lỗi 18: Nhầm "They" / "She" khi dịch
+
+- **❌ Sai:** They aren't tired → "Cô ấy không mệt."
+- **✅ Đúng:** They aren't tired → "**Họ** không mệt."
+- **📖 Nguyên tắc:** They = họ (số nhiều), She = cô ấy (số ít).
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+#### Lỗi 19: Nhầm nghĩa từ "brother"
+
+- **❌ Sai:** My brother is tall → "Mẹ của tôi cao."
+- **✅ Đúng:** My brother is tall → "**Anh/em trai** của tôi cao."
+- **📖 Nguyên tắc:** brother = anh/em trai, mother = mẹ.
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+#### Lỗi 20: "best friend" ≠ "bạn tốt"
+
+- **❌ Sai:** best friend → bạn tốt
+- **✅ Đúng:** best friend → bạn **thân nhất** (best = nhất)
+- **📖 Nguyên tắc:** best = tốt nhất / thân nhất; good friend = bạn tốt.
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+#### ⚠️ Lặp lại Lỗi 6: Quên "s" số nhiều (lần 4)
+
+- **❌ Sai:** Are they **the teacher**?
+- **✅ Đúng:** Are they **teachers**?
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+#### ⚠️ Sai nghĩa S/O: "She is my family"
+
+- **❌ Sai:** She is my family. (cô ấy = 1 người ≠ gia đình)
+- **✅ Đúng:** My family is happy. / She is my sister.
+- **📖 Nguyên tắc:** Chủ ngữ phải khớp nghĩa với tân ngữ.
+- **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
