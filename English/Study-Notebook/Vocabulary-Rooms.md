@@ -84,3 +84,15 @@
 | 5 | five | /faɪv/ | năm | |
 | 6 | six | /sɪks/ | sáu | |
 | 7 | seven | /ˈsɛvən/ | bảy | |
+
+## 🏠 Action Verbs (Động từ hành động)
+
+| # | Từ | IPA | Nghĩa | Ví dụ |
+|--:|-----|-----|-------|-------|
+| 1 | eat | /iːt/ | ăn | I eat rice every day. |
+| 2 | drink | /drɪŋk/ | uống | We drink water. |
+| 3 | sleep | /sliːp/ | ngủ | She sleeps at night. |
+| 4 | read | /riːd/ | đọc | He reads a book. |
+| 5 | write | /raɪt/ | viết | They write homework. |
+| 6 | play | /pleɪ/ | chơi | The children play soccer. |
+| 7 | study | /ˈstʌdi/ | học tập | I study English. |

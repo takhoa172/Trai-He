@@ -217,3 +217,41 @@
 - **✅ Đúng:** My family is happy. / She is my sister.
 - **📖 Nguyên tắc:** Chủ ngữ phải khớp nghĩa với tân ngữ.
 - **🔁 Review:** 2026-08-02 (L1) | 2026-08-09 (L2)
+
+---
+
+### 📆 Day 3 — Present Simple
+
+#### Lỗi 21: Nhầm "writes" / "writers"
+
+- **❌ Sai:** My sister **writers** stories.
+- **✅ Đúng:** My sister **writes** stories.
+- **📖 Nguyên tắc:** writes = động từ viết (write + s); writers = danh từ các nhà văn (writer + s).
+- **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)
+
+#### Lỗi 22: Quên bỏ "s" sau "doesn't"
+
+- **❌ Sai:** She doesn't **drinks** coffee. / He doesn't **studies** French.
+- **✅ Đúng:** She doesn't **drink** coffee. / He doesn't **study** French.
+- **📖 Nguyên tắc:** doesn't + V nguyên mẫu — "s" đã nằm trong doesn't, động từ phải trần.
+- **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)
+
+#### Lỗi 23: Nhầm AM / PM
+
+- **❌ Sai:** I eat breakfast at 6 PM.
+- **✅ Đúng:** I eat breakfast at 6 **AM**.
+- **📖 Nguyên tắc:** AM = sáng (00:00-12:00), PM = chiều/tối (12:00-24:00).
+- **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)
+
+#### Lỗi 24: Thiếu dấu "?" + viết hoa thừa giữa câu
+
+- **❌ Sai:** Does She drink milk / Do they play soccer
+- **✅ Đúng:** Does **s**he drink milk**?** / Do they play soccer**?**
+- **📖 Nguyên tắc:** Câu hỏi kết thúc bằng "?"; chỉ viết hoa đầu câu + tên riêng.
+- **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)
+
+#### ⚠️ Nhầm nghĩa từ: "write" ≠ "đọc"
+
+- **❌ Sai:** The students write stories → "Các học sinh **đọc** chuyện."
+- **✅ Đúng:** write = **viết**, read = **đọc**.
+- **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)

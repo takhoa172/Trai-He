@@ -93,3 +93,24 @@
 - **Use:** Hỏi về thông tin của người khác
 - **Review:** 2026-08-02 (L1)
 
+### 🌿 Câu 14: She eats breakfast at 7 AM.
+- **Meaning:** Cô ấy ăn sáng lúc 7 giờ sáng.
+- **Form:** S (số ít) + V-s/es + O + at + thời gian
+- **Sound:** /ʃiː iːts ˈbrɛkfəst æt ˈsɛvən eɪ ˈɛm/
+- **Use:** Nói thói quen hàng ngày của người khác
+- **Review:** 2026-08-03 (L1)
+
+### 🌿 Câu 15: She doesn't drink coffee.
+- **Meaning:** Cô ấy không uống cà phê.
+- **Form:** S + doesn't + V (nguyên mẫu) + O
+- **Sound:** /ʃiː ˈdʌznt drɪŋk ˈkɒfi/
+- **Use:** Nói việc ai đó KHÔNG làm
+- **Review:** 2026-08-03 (L1)
+
+### 🌿 Câu 16: Do you like music?
+- **Meaning:** Bạn có thích âm nhạc không?
+- **Form:** Do/Does + S + V (nguyên mẫu) + O?
+- **Sound:** /duː juː laɪk ˈmjuːzɪk/
+- **Use:** Hỏi về sở thích của người khác
+- **Review:** 2026-08-03 (L1)
+

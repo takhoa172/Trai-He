@@ -221,3 +221,112 @@
 2. **She _____ a teacher** → **is**
 3. **"Bạn có mệt không?"** → **Are you tired?**
 
+---
+
+## 📅 Ngày 3 — Action Verbs & Present Simple
+
+### 📝 Bài 1: Trắc nghiệm (5 câu)
+
+| # | Câu | Bạn chọn | Đáp án | Kết quả |
+|---|-----|:--------:|:------:|:-------:|
+| 1 | She _____ breakfast | eats | eats | ✅ |
+| 2 | I _____ water | drink | drink | ✅ |
+| 3 | They _____ games | play | play | ✅ |
+| 4 | He _____ at the library | studies | studies | ✅ |
+| 5 | My sister _____ stories | **writers** | **writes** | ❌ |
+
+**Kết quả: 4/5** — writers (nhà văn) ≠ writes (động từ viết)
+
+---
+
+### ✏️ Bài 2: Chia động từ (7 câu)
+
+| # | Câu | Bạn điền | Đúng | Kết quả |
+|---|-----|:--------:|:----:|:-------:|
+| 1 | I _____ breakfast | eat | eat | ✅ |
+| 2 | She _____ milk | drinks | drinks | ✅ |
+| 3 | They _____ soccer | play | play | ✅ |
+| 4 | He _____ English | studies | studies | ✅ |
+| 5 | We _____ books | read | read | ✅ |
+| 6 | My brother _____ at 10 PM | sleeps | sleeps | ✅ |
+| 7 | The students _____ stories | write | write | ✅ |
+
+**Kết quả: 7/7** — ⚠️ dịch sai câu 7: "write stories" = **viết** chuyện, không phải "đọc"
+
+---
+
+### 🔤 Bài 3: Sắp xếp (5 câu)
+
+| # | Bạn viết | Đáp án | Kết quả |
+|---|---------|:------:|:-------:|
+| 1 | I eat breakfast at **6 PM** | at **6 AM** | ❌ Nhầm AM/PM |
+| 2 | She drinks milk every day | She drinks milk every day. | ✅ |
+| 3 | They play soccer after school | They play soccer after school. | ✅ |
+| 4 | He studies English at school | He studies English at school. | ✅ |
+| 5 | My father reads books in the evening | My father reads books in the evening. | ✅ |
+
+**Kết quả: 4/5** — AM = sáng, PM = chiều/tối
+
+---
+
+### ❌ Luyện tập: Phủ định (5 câu)
+
+| # | Câu gốc | Bạn viết | Đúng | Kết quả |
+|---|---------|---------|:----:|:-------:|
+| 1 | I eat meat | I don't eat meat | don't eat | ✅ |
+| 2 | She drinks coffee | She doesn't **drinks** | doesn't **drink** | ❌ |
+| 3 | They play soccer | They don't play soccer | don't play | ✅ |
+| 4 | He studies French | He doesn't **studies** | doesn't **study** | ❌ |
+| 5 | We read newspapers | We don't read newspapers | don't read | ✅ |
+
+**Kết quả: 3/5** — sau doesn't: V nguyên mẫu (bỏ s/es)
+
+---
+
+### ❓ Luyện tập: Câu hỏi (5 câu)
+
+| # | Câu gốc | Bạn viết | Đúng | Kết quả |
+|---|---------|---------|:----:|:-------:|
+| 1 | You eat breakfast | Do you eat breakfast? | Do you eat breakfast? | ✅ |
+| 2 | She drinks milk | Does She drink milk | Does **s**he drink milk**?** | ⚠️ |
+| 3 | They play soccer | Do they play soccer | Do they play soccer**?** | ⚠️ |
+| 4 | He studies English | Does he study English | Does he study English**?** | ⚠️ |
+| 5 | The teacher reads books | Does the teacher read books | Does the teacher read books**?** | ⚠️ |
+
+**Cấu trúc: 5/5 đúng** — cần rèn: viết thường "she" giữa câu + dấu "?" cuối câu
+
+---
+
+### 🔧 Bài 4: Tìm lỗi sai (5 câu)
+
+| # | Câu sai | Lỗi bạn chỉ ra | Sửa đúng | Kết quả |
+|---|---------|---------------|:--------:|:-------:|
+| 1 | She drink milk | drink thiếu s | She **drinks** milk | ✅ |
+| 2 | I doesn't like coffee | I dùng don't | I **don't** like coffee | ✅ |
+| 3 | Do he study English? | He dùng does | **Does** he study English? | ✅ |
+| 4 | My brother play soccer | play thêm s | My brother **plays** soccer | ✅ |
+| 5 | They doesn't read books | They dùng don't | They **don't** read books | ✅ |
+
+**Kết quả: 5/5** — phân tích đúng cả 3 quy tắc 🎉
+
+---
+
+### ✍️ Bài 5: Viết câu (3 câu)
+
+| # | Câu bạn viết | Nhận xét | Kết quả |
+|---|-------------|---------|:-------:|
+| 1 | I eat breakfast every morning | I + V nguyên mẫu ✅ | ✅ |
+| 2 | I study English every night | I + V nguyên mẫu ✅ | ✅ |
+| 3 | My mother reads books in the morning | My mother + reads ✅ | ✅ |
+
+**Kết quả: 3/3** — lưu ý "books" (nhiều sách) + "reads" (ngôi 3) là 2 loại "s" khác nhau 🎉
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **He/She/It → thêm s/es** (goes, watches, studies)
+2. **She _____ (study) English** → **studies**
+3. **"You play soccer." → câu hỏi?** → **Do you play soccer?**
+
+
