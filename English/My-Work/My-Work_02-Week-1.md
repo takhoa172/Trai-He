@@ -329,4 +329,100 @@
 2. **She _____ (study) English** → **studies**
 3. **"You play soccer." → câu hỏi?** → **Do you play soccer?**
 
+---
+
+## 📅 Ngày 4 — Vocabulary: Bản Thân & Gia Đình (Me & My Family)
+
+### 📝 Bài 1: Nối từ với nghĩa (6 câu)
+
+| # | Ghép | Kết quả |
+|---|------|:-------:|
+| 1 | sad — b. buồn | ✅ |
+| 2 | tired — d. mệt | ✅ |
+| 3 | hungry — e. đói | ✅ |
+| 4 | thirsty — a. khát | ✅ |
+| 5 | cold — f. lạnh | ✅ |
+| 6 | hot — c. nóng | ✅ |
+
+**Kết quả: 6/6 đúng** 🎉
+
+---
+
+### ✏️ Bài 2: Điền từ vào đoạn văn (6 chỗ)
+
+| # | Bạn điền | Đáp án | Kết quả |
+|---|---------|:------:|:-------:|
+| 1 | Happy | happy | ✅ |
+| 2 | tired | tired | ✅ |
+| 3 | hungry | hungry | ✅ |
+| 4 | eat | eat | ✅ |
+| 5 | drinks | drinks | ✅ |
+| 6 | thirsty | thirsty | ✅ |
+
+**Kết quả: 6/6 đúng** 🎉
+
+---
+
+### 🔤 Bài 3: Sắp xếp (5 câu)
+
+| # | Bạn viết | Kết quả |
+|---|---------|:-------:|
+| 1 | She is happy today | ✅ |
+| 2 | I am tired after school | ✅ |
+| 3 | We are hungry at noon | ✅ |
+| 4 | She is thirsty after class | ✅ |
+| 5 | It is cold in the morning | ✅ |
+
+**Kết quả: 5/5 đúng** 🎉
+
+---
+
+### 🔧 Bài 4: Tìm lỗi sai (5 câu)
+
+| # | Câu sai | Bạn sửa | Đáp án | Kết quả |
+|---|---------|---------|:------:|:-------:|
+| 1 | I are hungry | are → am | I **am** hungry | ✅ |
+| 2 | My sister are thirsty | are → is | My sister **is** thirsty | ✅ |
+| 3 | It are cold | are → is | It **is** cold | ✅ |
+| 4 | They is tired | is → are | They **are** tired | ✅ |
+| 5 | Is you sad? | is → It is | **Are** you sad? | ❌ |
+
+**Kết quả: 4/5** — "You" luôn đi với "are", không bao giờ is/am
+
+---
+
+### ✍️ Bài 5: Viết câu (3 câu)
+
+| # | Câu bạn viết | Nhận xét | Kết quả |
+|---|-------------|---------|:-------:|
+| 1 | I am tired after school | I + am ✅ | ✅ |
+| 2 | My sister is happy today | My sister + is ✅ | ✅ |
+| 3 | My father is very sad | My father + is ✅ | ✅ |
+
+**Kết quả: 3/3 đúng** 🎉
+
+---
+
+### 🎯 Luyện tập thêm: Dịch VN → EN (5 câu)
+
+| # | Tiếng Việt | Bạn dịch | Đáp án | Kết quả |
+|---|-----------|---------|:------:|:-------:|
+| 1 | Tôi đói | I am hungry | I am hungry. | ✅ |
+| 2 | Chị gái tôi khát | My sister is thirsty | My sister is thirsty. | ✅ |
+| 3 | Trời lạnh vào buổi sáng | in the **evening** | in the **morning** | ❌ |
+| 4 | Họ mệt sau giờ học | They are tired after class | They are tired after class. | ✅ |
+| 5 | Bạn có buồn không? | Are you sad? | Are you sad? | ✅ |
+
+**Kết quả: 4/5** — morning = sáng, evening = tối
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **"Tired" nghĩa là gì?** → Mệt mỏi
+2. **"Bạn có khát không?"** → Are you thirsty?
+3. **"I am hungry." nghĩa là gì?** → Tôi đói.
+
+
+
 

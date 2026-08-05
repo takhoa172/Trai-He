@@ -114,3 +114,17 @@
 - **Use:** Hỏi về sở thích của người khác
 - **Review:** 2026-08-03 (L1)
 
+### 🌿 Câu 17: I am tired after school.
+- **Meaning:** Tôi mệt sau giờ học.
+- **Form:** S + am + adj + after + N
+- **Sound:** /aɪ æm ˈtaɪərd ˈæftər skuːl/
+- **Use:** Nói trạng thái của mình sau hoạt động
+- **Review:** 2026-08-04 (L1)
+
+### 🌿 Câu 18: Are you sad?
+- **Meaning:** Bạn có buồn không?
+- **Form:** Am/Is/Are + S + adj?
+- **Sound:** /ɑːr juː sæd/
+- **Use:** Hỏi cảm xúc của người khác
+- **Review:** 2026-08-04 (L1)
+

@@ -96,3 +96,15 @@
 | 5 | write | /raɪt/ | viết | They write homework. |
 | 6 | play | /pleɪ/ | chơi | The children play soccer. |
 | 7 | study | /ˈstʌdi/ | học tập | I study English. |
+
+## 🏠 Feelings (Cảm xúc & Trạng thái)
+
+| # | Từ | IPA | Nghĩa | Ví dụ |
+|--:|-----|-----|-------|-------|
+| 1 | sad | /sæd/ | buồn | My friend is sad today. |
+| 2 | tired | /ˈtaɪərd/ | mệt mỏi | I am tired after school. |
+| 3 | hungry | /ˈhʌŋɡri/ | đói | We are hungry at noon. |
+| 4 | thirsty | /ˈθɜːrsti/ | khát | She is thirsty after class. |
+| 5 | cold | /koʊld/ | lạnh | It is cold in the morning. |
+| 6 | hot | /hɑːt/ | nóng | The weather is hot today. |
+| 7 | morning | /ˈmɔːrnɪŋ/ | buổi sáng | I study in the morning. |

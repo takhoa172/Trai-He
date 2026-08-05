@@ -255,3 +255,22 @@
 - **❌ Sai:** The students write stories → "Các học sinh **đọc** chuyện."
 - **✅ Đúng:** write = **viết**, read = **đọc**.
 - **🔁 Review:** 2026-08-03 (L1) | 2026-08-10 (L2)
+
+---
+
+### 📆 Day 4 — Vocabulary: Me & My Family
+
+#### Lỗi 25: "Is you" → "Are you"
+
+- **❌ Sai:** Is you sad?
+- **✅ Đúng:** **Are** you sad?
+- **📖 Nguyên tắc:** You luôn đi với **are**, không bao giờ is/am.
+  - Are you tired? / Are you a student?
+- **🔁 Review:** 2026-08-04 (L1) | 2026-08-11 (L2)
+
+#### Lỗi 26: Nhầm "morning" / "evening"
+
+- **❌ Sai:** It is cold in the evening. (đề: buổi sáng)
+- **✅ Đúng:** It is cold in the **morning**.
+- **📖 Nguyên tắc:** morning = buổi sáng, evening = buổi tối.
+- **🔁 Review:** 2026-08-04 (L1) | 2026-08-11 (L2)
