@@ -274,3 +274,30 @@
 - **✅ Đúng:** It is cold in the **morning**.
 - **📖 Nguyên tắc:** morning = buổi sáng, evening = buổi tối.
 - **🔁 Review:** 2026-08-04 (L1) | 2026-08-11 (L2)
+
+---
+
+### 📆 Day 5 — Thực Hành Tổng Hợp: Be & Action Verbs
+
+#### Lỗi 27: "No, I do" → "No, I don't"
+
+- **❌ Sai:** Do you drink coffee? → No, I do.
+- **✅ Đúng:** No, I **don't**.
+- **📖 Nguyên tắc:** Câu trả lời ngắn phủ định cho do/does/did phải có "n't", không được bỏ:
+  - Yes, I do. / No, I don't.
+  - Yes, she does. / No, she doesn't.
+- **🔁 Review:** 2026-08-05 (L1) | 2026-08-12 (L2)
+
+#### ⚠️ Lặp lại Lỗi 1: Thiếu mạo từ "a/an" (lần 3)
+
+- **❌ Sai:** She reads book at night.
+- **✅ Đúng:** She reads **a book** in the evening.
+- **📖 Nguyên tắc:** Danh từ đếm được số ít luôn cần "a/an": a book, an apple.
+- **🔁 Review:** 2026-08-05 (L1) | 2026-08-12 (L2)
+
+#### ⚠️ Lặp lại Lỗi 26: "night" ≠ "evening"
+
+- **❌ Sai:** She reads a book at night. (đề: buổi tối)
+- **✅ Đúng:** She reads a book **in the evening**.
+- **📖 Nguyên tắc:** evening = buổi tối; night = ban đêm (lúc đi ngủ).
+- **🔁 Review:** 2026-08-05 (L1) | 2026-08-12 (L2)

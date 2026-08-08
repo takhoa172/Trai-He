@@ -128,3 +128,17 @@
 - **Use:** Hỏi cảm xúc của người khác
 - **Review:** 2026-08-04 (L1)
 
+### 🌿 Câu 19: My brother is very tall.
+- **Meaning:** Anh/em trai tôi rất cao.
+- **Form:** S + am/is/are + very + adj
+- **Sound:** /maɪ ˈbrʌðər ɪz ˈvɛri tɔːl/
+- **Use:** Mô tả đặc điểm của người khác (to be + tính từ)
+- **Review:** 2026-08-05 (L1)
+
+### 🌿 Câu 20: I drink water every day.
+- **Meaning:** Tôi uống nước mỗi ngày.
+- **Form:** S + V (nguyên mẫu) + O + every day
+- **Sound:** /aɪ drɪŋk ˈwɔːtər ˈɛvri deɪ/
+- **Use:** Nói một thói quen lặp lại hằng ngày (action verb)
+- **Review:** 2026-08-05 (L1)
+

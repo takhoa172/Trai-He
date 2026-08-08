@@ -424,5 +424,103 @@
 3. **"I am hungry." nghĩa là gì?** → Tôi đói.
 
 
+---
+
+## 📅 Ngày 5 — Thực Hành Tổng Hợp: Be & Action Verbs
+
+### 📝 Bài 1: Chọn động từ đúng (5 câu)
+
+| # | Câu | Bạn chọn | Đáp án | Kết quả |
+|---|-----|:--------:|:------:|:-------:|
+| 1 | She ___ a student | is | is | ✅ |
+| 2 | I ___ rice every day | eat | eat | ✅ |
+| 3 | They ___ tired | are | are | ✅ |
+| 4 | My brother ___ soccer | plays | plays | ✅ |
+| 5 | We ___ happy today | are | are | ✅ |
+
+**Kết quả: 5/5** — phân biệt được to be (trạng thái) và action verb (hành động)
+
+---
+
+### ✏️ Bài 2: Điền am/is/are hoặc động từ (7 câu)
+
+| # | Câu | Bạn điền | Đáp án | Kết quả |
+|---|-----|:--------:|:------:|:-------:|
+| 1 | I ___ a student | am | am | ✅ |
+| 2 | She ___ milk | drinks | drinks | ✅ |
+| 3 | My sister ___ hungry | is | is | ✅ |
+| 4 | He ___ English | studies | studies | ✅ |
+| 5 | They ___ in the classroom | are | are | ✅ |
+| 6 | We ___ books | read | read | ✅ |
+| 7 | It ___ cold | is | is | ✅ |
+
+**Kết quả: 7/7** — dùng đúng cả 2 loại động từ trong cùng một bài
+
+---
+
+### 🔤 Bài 3: Sắp xếp thành câu (5 câu)
+
+| # | Bạn viết | Đáp án | Kết quả |
+|---|---------|:------:|:-------:|
+| 1 | happy am I | I am happy. | ✅ |
+| 2 | milk she drinks | She drinks milk. | ✅ |
+| 3 | school are we at | We are at school. | ✅ |
+| 4 | morning I study in the | I study in the morning. | ✅ |
+| 5 | sister my is tall | My sister is tall. | ✅ |
+
+**Kết quả: 5/5** — đúng thứ tự S + V (be/action) + phần phụ
+
+---
+
+### 🔧 Bài 4: Tìm lỗi sai (5 câu)
+
+| # | Câu sai | Bạn sửa | Đáp án | Kết quả |
+|---|---------|---------|:------:|:-------:|
+| 1 | I is a student | I am a student | I **am** a student | ✅ |
+| 2 | She drink milk | She drinks milk | She **drinks** milk | ✅ |
+| 3 | They is hungry | They are hungry | They **are** hungry | ✅ |
+| 4 | My brother play games | My brother plays games | **plays** | ✅ |
+| 5 | He reads a book | Giữ nguyên (câu đúng) | Giữ nguyên | ✅ |
+
+**Kết quả: 5/5** — tự soi đúng cả 2 quy tắc: I/They → am/are, ngôi 3 → s/es
+
+---
+
+### 💬 Luyện tập thêm: Hội thoại ngắn (7 lượt)
+
+| # | Lời thoại | Bạn trả lời | Đáp án | Kết quả |
+|---|-----------|------------|:------:|:-------:|
+| 1 | Are you happy? | Yes, I am | Yes, I am. | ✅ |
+| 2 | Do you study English? | Yes, I do | Yes, I do. | ✅ |
+| 3 | Is she your sister? | Yes, she is | Yes, she is. | ✅ |
+| 4 | Do they play soccer? | Yes, they do | Yes, they do. | ✅ |
+| 5 | Are you tired? | No, I am not | No, I am not. | ✅ |
+| 6 | Do you drink coffee? | No, I do | No, I **don't**. | ❌ |
+| 7 | Is it cold? | Yes, it is | Yes, it is. | ✅ |
+
+**Kết quả: 6/7** — câu trả lời ngắn phủ định cho do/does → "don't"/"doesn't" (không phải "do")
+
+---
+
+### 🎯 Bài 5: Dịch VN → EN (4 câu)
+
+| # | Tiếng Việt | Bạn dịch | Đáp án | Kết quả |
+|---|-----------|---------|:------:|:-------:|
+| 1 | Tôi là học sinh | I am a student | I am a student. | ✅ |
+| 2 | Anh trai tôi rất cao | My brother is very tall | My brother is very tall. | ✅ |
+| 3 | Tôi uống nước mỗi ngày | I drink water every day | I drink water every day. | ✅ |
+| 4 | Cô ấy đọc sách vào buổi tối | She reads book at night | She reads **a book** **in the evening**. | ❌ |
+
+**Kết quả: 3/4** — thiếu "a" trước danh từ (lặp lại Lỗi 1); night = ban đêm ≠ evening = buổi tối
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **"She ___ a student"** → **is**
+2. **"I ___ breakfast every day"** → **eat**
+3. **"My brother ___ very tall"** → **is**
+
+*(Phương pháp: mô tả trạng thái/tính chất → dùng be; làm gì lặp lại hằng ngày → dùng action verb)*
 
 

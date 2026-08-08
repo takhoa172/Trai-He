@@ -106,5 +106,21 @@
 | 3 | hungry | /ˈhʌŋɡri/ | đói | We are hungry at noon. |
 | 4 | thirsty | /ˈθɜːrsti/ | khát | She is thirsty after class. |
 | 5 | cold | /koʊld/ | lạnh | It is cold in the morning. |
-| 6 | hot | /hɑːt/ | nóng | The weather is hot today. |
 | 7 | morning | /ˈmɔːrnɪŋ/ | buổi sáng | I study in the morning. |
+
+## 🏠 Time (Thời gian)
+
+| # | Từ        | IPA            | Nghĩa      | Ví dụ                       |
+|--:|-----------|----------------|------------|-----------------------------|
+| 1 | afternoon | /ˌæftərˈnuːn/  | buổi chiều | We play in the afternoon.   |
+| 2 | evening   | /ˈiːvnɪŋ/      | buổi tối   | She reads in the evening.   |
+| 3 | night     | /naɪt/         | ban đêm    | He sleeps at night.         |
+| 4 | today     | /təˈdeɪ/       | hôm nay    | Today is Monday.            |
+| 5 | tomorrow  | /təˈmɔːroʊ/    | ngày mai   | Tomorrow is a holiday.      |
+
+## 🏠 Adjectives (Tính từ)
+
+| # | Từ    | IPA     | Nghĩa   | Ví dụ                   |
+|--:|-------|---------|---------|-----------------------|
+| 1 | big   | /bɪɡ/   | to, lớn | My school is big.      |
+| 2 | small | /smɔːl/ | nhỏ     | My class is small.     |
