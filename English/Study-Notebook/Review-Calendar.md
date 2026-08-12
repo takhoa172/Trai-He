@@ -21,3 +21,4 @@
 | Day 3 — Present Simple     |    ✅     |      ❌      |      ❌       |      ❌       |
 | Day 4 — Vocabulary (Feelings) |    ✅   |      ❌      |      ❌       |      ❌       |
 | Day 5 — Practice (Be & Action) |    ✅     |      ❌      |      ❌       |      ❌       |
+| Day 6 — Reading & Writing      |    ✅     |      ❌      |      ❌       |      ❌       |

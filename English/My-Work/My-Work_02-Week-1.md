@@ -524,3 +524,100 @@
 *(Phương pháp: mô tả trạng thái/tính chất → dùng be; làm gì lặp lại hằng ngày → dùng action verb)*
 
 
+---
+
+## 📅 Ngày 6 — Reading & Writing: Đọc & Viết
+
+### 📖 Luyện đọc hiểu: "The Study Corner" (5 câu hỏi)
+
+| # | Câu hỏi | Bạn trả lời | Đáp án | Kết quả |
+|---|---------|------------|:------:|:-------:|
+| 1 | What is the name of the student? | Minh | His name is Minh | ✅ |
+| 2 | Is his school big or small? | Big | His school is **big** | ✅ |
+| 3 | Who studies with Minh in the afternoon? | Lan | His friend Lan | ✅ |
+| 4 | What does Minh's father do? | Teacher | He is a **teacher** | ✅ |
+| 5 | How does Minh feel in the study corner? | Happy | He is **happy** | ✅ |
+
+**Kết quả: 5/5** — đọc hiểu tốt, trả lời đúng hết thông tin
+
+---
+
+### ✅ Bài 1: True / False (5 câu)
+
+| # | Câu | Bạn | Đáp án | Kết quả |
+|---|-----|:---:|:------:|:-------:|
+| 1 | Minh's class is big | F | F (class is small) | ✅ |
+| 2 | Minh studies in the morning | T | T | ✅ |
+| 3 | Minh's brother plays soccer outside | T | T | ✅ |
+| 4 | Minh's mother is a teacher | F | F (mother is a doctor) | ✅ |
+| 5 | Minh's sister reads books at school | F | F (reads at home) | ✅ |
+
+**Kết quả: 5/5** — phân biệt chính xác to be + thông tin từ bài
+
+---
+
+### 🔎 Bài 2: Tìm từ theo nghĩa (5 từ)
+
+| # | Nghĩa tiếng Việt | Bạn tìm | Đáp án | Kết quả |
+|---|-----------------|---------|:------:|:-------:|
+| 1 | người tốt, tử tế | kind | **kind** | ✅ |
+| 2 | góc học tập | **Lesson** | **study corner** | ❌ |
+| 3 | luôn luôn | Always | **always** | ✅ |
+| 4 | ở ngoài | Outside | **outside** | ✅ |
+| 5 | giúp đỡ | helps | **helps** | ✅ |
+
+**Kết quả: 4/5** — Lesson = bài học ≠ study corner = góc học tập (lỗi 28)
+
+---
+
+### 🧩 Bài 3: Sắp xếp đoạn văn
+
+Bạn: c → b → d → **f → a** → e
+
+Đúng: c → b → d → **a → f** → e
+
+**Nhận xét:** Thiếu "My mother is a teacher" (a) trước "My father is a doctor" (f) — chỉ sai thứ tự, ý không đổi
+
+---
+
+### 🔧 Bài 4: Tìm lỗi sai (5 câu)
+
+| # | Câu sai | Bạn sửa | Đúng | Kết quả |
+|---|---------|---------|:----:|:-------:|
+| 1 | My name are Minh | are → is | My name **is** Minh | ✅ |
+| 2 | I studies at Le Loi School | studies → study | I **study** ... | ✅ |
+| 3 | My father are a teacher | are → is | My father **is** a teacher | ✅ |
+| 4 | My sister read books | read → reads | **reads** | ✅ |
+| 5 | We is happy | is → are | We **are** happy | ✅ |
+
+**Kết quả: 5/5** — tự tìm đúng cả 5 lỗi to be + chia động từ 🎉
+
+---
+
+### ✍️ Bài 5: Viết đoạn văn giới thiệu bản thân
+
+| # | Câu của Khoa | Nhận xét | Kết quả |
+|---|-------------|---------|:-------:|
+| 1 | Hello my name is Khoa | ⚠️ Nên thêm dấu phẩy: "Hello**,** my name is Khoa." | ⚠️ |
+| 2 | I am 21 year old | ❌ Thiếu "s" → **21 years old** | ❌ |
+| 3 | I study at UTH school | ✅ | ✅ |
+| 4 | My father is a teacher | ✅ | ✅ |
+| 5 | My mother is a doctor | ✅ | ✅ |
+| 6 | I like read book every day | ❌ → **like to read books** | ❌ |
+| 7 | I feel happy with live | ❌ → **with my life** | ❌ |
+
+**Kết quả: 4/7 mạch đúng** — rèn: years old / like + to read / life (danh từ) ≠ live (động từ)
+
+**✅ Bản chuẩn tham khảo:**
+> Hello, my name is Khoa. I am 21 years old. I study at UTH School. My father is a teacher. My mother is a doctor. I like to read books every day. I feel happy with my life.
+
+---
+
+### ✅ Tự kiểm tra cuối ngày
+
+1. **Trong bài đọc, Minh học cùng ai?** → Bạn Lan
+2. **"Kind" có nghĩa là gì?** → Tốt bụng, tử tế
+3. **Viết 1 câu giới thiệu tên của em:** → My name is Khoa.
+
+
+

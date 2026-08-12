@@ -142,3 +142,17 @@
 - **Use:** Nói một thói quen lặp lại hằng ngày (action verb)
 - **Review:** 2026-08-05 (L1)
 
+### 🌿 Câu 21: My teacher is kind.
+- **Meaning:** Cô giáo của tôi tốt bụng.
+- **Form:** S + is + adj (mô tả tính cách)
+- **Sound:** /maɪ ˈtiːtʃər ɪz kaɪnd/
+- **Use:** Mô tả tính cách của người khác (to be + tính từ)
+- **Review:** 2026-08-06 (L1)
+
+### 🌿 Câu 22: My father is a teacher.
+- **Meaning:** Bố tôi là giáo viên.
+- **Form:** S + is + a/an + N (nghề nghiệp)
+- **Sound:** /maɪ ˈfɑːðər ɪz ə ˈtiːtʃər/
+- **Use:** Nói về nghề nghiệp của người thân (to be + nghề)
+- **Review:** 2026-08-06 (L1)
+

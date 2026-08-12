@@ -301,3 +301,35 @@
 - **✅ Đúng:** She reads a book **in the evening**.
 - **📖 Nguyên tắc:** evening = buổi tối; night = ban đêm (lúc đi ngủ).
 - **🔁 Review:** 2026-08-05 (L1) | 2026-08-12 (L2)
+
+---
+
+### 📆 Day 6 — Reading & Writing: Đọc & Viết
+
+#### Lỗi 28: "lesson" ≠ "study corner"
+
+- **❌ Sai:** study corner = Lesson, tôi đoán.
+- **✅ Đúng:** study corner = góc học tập.
+- **📖 Nguyên tắc:** lesson = bài học; study corner = góc học tập (trong bài: "happy in the study corner").
+- **🔁 Review:** 2026-08-06 (L1) | 2026-08-13 (L2)
+
+#### Lỗi 29: "21 year old" → "21 years old"
+
+- **❌ Sai:** I am 21 year old.
+- **✅ Đúng:** I am 21 **years** old.
+- **📖 Nguyên tắc:** Từ 2 trở lên → thêm "s" vào year/khi đứng sau số > 1: 21 years, 5 pens.
+- **🔁 Review:** 2026-08-06 (L1) | 2026-08-13 (L2)
+
+#### Lỗi 30: "I like read book" → "I like to read books"
+
+- **❌ Sai:** I like read book every day.
+- **✅ Đúng:** I like **to read** books every day.
+- **📖 Nguyên tắc:** like + to V (to read) hoặc + V-ing (reading); danh từ đếm được số nhiều → books.
+- **🔁 Review:** 2026-08-06 (L1) | 2026-08-13 (L2)
+
+#### Lỗi 31: "live" ≠ "life"
+
+- **❌ Sai:** I feel happy with live.
+- **✅ Đúng:** I feel happy with my **life**.
+- **📖 Nguyên tắc:** live = động từ (sống); life = danh từ (cuộc sống).
+- **🔁 Review:** 2026-08-06 (L1) | 2026-08-13 (L2)
