@@ -106,6 +106,7 @@
 | 3 | hungry | /ˈhʌŋɡri/ | đói | We are hungry at noon. |
 | 4 | thirsty | /ˈθɜːrsti/ | khát | She is thirsty after class. |
 | 5 | cold | /koʊld/ | lạnh | It is cold in the morning. |
+| 6 | hot | /hɑːt/ | nóng | The weather is hot today. |
 | 7 | morning | /ˈmɔːrnɪŋ/ | buổi sáng | I study in the morning. |
 
 ## 🏠 Time (Thời gian)
@@ -124,3 +125,8 @@
 |--:|-------|---------|---------|-----------------------|
 | 1 | big   | /bɪɡ/   | to, lớn | My school is big.      |
 | 2 | small | /smɔːl/ | nhỏ     | My class is small.     |
+| 3 | tall  | /tɔːl/  | cao     | My father is tall.     |
+| 4 | short | /ʃɔːrt/ | thấp    | My sister is short.    |
+| 5 | old   | /oʊld/  | già     | My grandfather is old. |
+| 6 | young | /jʌŋ/   | trẻ     | My teacher is young.   |
+| 7 | new   | /nuː/   | mới     | I have a new book.     |
