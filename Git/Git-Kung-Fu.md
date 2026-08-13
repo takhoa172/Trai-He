@@ -56,7 +56,7 @@ Git/
 ├── Theory/                  ← Lý thuyết từng buổi
 │   ├── Buoi-1-Tong-Quan-Git.md
 │   └── Buoi-2-Doc-Hieu-Status.md
-└── Exercise/                ← Bài tập thực hành
+└── Practice/                ← Bài tập thực hành
     ├── Buoi-1-Bai-Tap-Tong-Quan.md
     └── Buoi-2-Bai-Tap-Status.md
 ```
